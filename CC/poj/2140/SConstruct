@@ -1,0 +1,2 @@
+env = Environment(CPPFLAGS='-Wall -g')
+env.Program("herd_sums.cpp")
